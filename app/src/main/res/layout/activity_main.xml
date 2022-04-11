@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/background"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img"
+                android:background="@drawable/shape_10dp_corners"/>
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/shape_10dp_white_corners"
+                android:rowCount="4"
+                android:columnCount="5">
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="0"
+                    android:layout_column="0"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:src="@drawable/icon_branch"
+                        android:scaleType="fitCenter"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="附近网点"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="0"
+                    android:layout_column="1"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:src="@drawable/icon_warehouse"
+                        android:scaleType="fitCenter"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="网点自寄"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="0"
+                    android:layout_column="2"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:src="@drawable/icon_truck_galloping"
+                        android:scaleType="fitCenter"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="邮件查询"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="0"
+                    android:layout_column="3"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_wallet"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="邮件资费"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="0"
+                    android:layout_column="4"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_book"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="报刊订阅"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="1"
+                    android:layout_column="0"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_living_payment"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="生活缴费"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_mail"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="邮编查询"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="1"
+                    android:layout_column="2"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_express_delivery"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="上门揽件"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="1"
+                    android:layout_column="3"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_solider"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="军营包裹"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_height="70dp"
+                    android:layout_width="50dp"
+                    android:layout_row="1"
+                    android:layout_column="4"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_columnWeight="1">
+
+                    <ImageButton
+                        android:layout_height="50dp"
+                        android:layout_width="50dp"
+                        android:background="@color/white"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_school"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:text="校园包裹"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+            </GridLayout>
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:rowCount="1"
+                android:columnCount="4">
+
+                <Button
+                    android:layout_height="50dp"
+                    android:background="@drawable/btn_normal"
+                    android:text="中邮速递"
+                    android:textSize="13dp"
+                    android:textColor="@color/black"/>
+            </GridLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:background="@color/white">
+            
+            <RadioButton
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:checked="true"
+                android:drawableTop="@drawable/navbar_home_normal"
+                android:gravity="center"
+                android:text="首页"/>
+        </RadioGroup>
+    </LinearLayout>
+</LinearLayout>
