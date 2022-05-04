@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 每个商品模块中图片的样式 -->
+<resources>
+    <style name="commoditySingleImg">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">110dp</item>
+    </style>
+</resources>

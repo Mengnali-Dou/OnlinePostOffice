@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">OnlinePostOffice</string>
+    <string name="fu_jin_wang_dian">附近网点</string>
+    <string name="wang_dian_zi_ji">网点自寄</string>
+    <string name="you_jian_cha_xun">邮件查询</string>
+    <string name="you_jian_zi_fei">邮件资费</string>
+    <string name="bao_kan_ding_yue">报刊订阅</string>
+    <string name="sheng_huo_jiao_fei">生活缴费</string>
+    <string name="you_bian_cha_xun">邮编查询</string>
+    <string name="shang_men_lan_jian">上门揽件</string>
+    <string name="jun_ying_bao_guo">军营包裹</string>
+    <string name="xiao_yuan_bao_guo">校园包裹</string>
+    <string name="zhong_you_su_di">中邮速递</string>
+    <string name="zhong_you_bao_xian">中邮保险</string>
+    <string name="zhong_you_zheng_quan">中邮证券</string>
+    <string name="you_chu_yin_hang">邮储银行</string>
+    <string name="hong_lou_meng_feng_qin_zhe">读书日名著--《红楼梦》个性化邮票典藏系列风琴折</string>
+    <string name="nengmenggu_youzhe">内蒙古兴安盟 《全民阅读》邮折</string>
+    <string name="yunnan_zhencangce">【云南】《全民阅读》邮票珍藏册</string>
+    <string name="geyan_shangbanyue">格言（上半月）</string>
+    <string name="duzhe">《读者》高考作文辅导（增刊）（423在线直播专用）</string>
+    <string name="gushihui">故事会</string>
+    <string name="hetao">道道湾 正宗新疆185核桃450g/袋一大袋</string>
+    <string name="chengzi">秭归中华红血橙产地直发 鲜嫩多汁包邮</string>
+    <string name="lajiao">特辣魔鬼椒-朝天椒100g250g500g辣椒干特辣辣椒干红辣椒粉辣椒段干辣椒【美味轩】</string>
+    <string name="keyuan_mingxinpian">《可园》手绘明信片</string>
+    <string name="nanjingbowuguan_mingxinpian">南京博物院异形明信片</string>
+    <string name="fuqi_mingxinpian">我把福气带回家（少林寺）</string>
+    <string name="youtong_jimu">【预售】邮筒-积木</string>
+    <string name="youtong_yaoshikou">邮筒钥匙扣</string>
+    <string name="chemo_dahuoche">大货车车模</string>
+    <string name="price_ten">￥10.0</string>
+    <string name="huanyipi">换一批</string>
+    <string name="daodile">已经到底了哦~</string>
+    <string name="shurusousuoneirong">请输入搜索内容</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 首页商品图片推荐标题 -->
+<resources>
+    <style name="titleCommodityRecommend">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">23dp</item>
+        <item name="android:layout_marginTop">35dp</item>
+    </style>
+</resources>

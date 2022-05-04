@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 每个商品模块样式，包括图片和文字 -->
+<resources>
+    <style name="commoditySingleLinerLayout">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">170dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

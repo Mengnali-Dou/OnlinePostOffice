@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="background">#f2f0f1</color>
     <color name="white_btn_click">#c4c4c4</color>
+    <color name="red">#fc5043</color>
+    <color name="ems_green">#11ae64</color>
 </resources>
