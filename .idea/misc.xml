@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.148" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/border.xml" value="0.1" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/btn_15dp_oval_white.xml" value="0.148" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/btn_normal_white.xml" value="0.148" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/ic_launcher_background.xml" value="0.136" />
@@ -10,8 +12,21 @@
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/main_activity_btn.xml" value="0.148" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/shape_10dp_corners.xml" value="0.148" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/drawable/shape_10dp_white_corners.xml" value="0.148" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/activity_home.xml" value="0.22327898550724637" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/activity_main.xml" value="0.22583686940122583" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/activity_market.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/activity_message.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/activity_mine.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/activity_shopping_trolley.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/fragment_home.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/home_fragment.xml" value="0.22327898550724637" />
         <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/main_title_layout.xml" value="0.24947916666666667" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/market_fragment.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/message_fragment.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/mine_fragment.xml" value="0.12132725430597771" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/layout/shopping_trolley_fragment.xml" value="0.22327898550724637" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/The road to hair loss/Android Exploit/OnlinePostOffice/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.148" />
       </map>
     </option>
   </component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.onlinepostoffice.home.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/marketFragment"
+        android:name="com.example.onlinepostoffice.market.MarketFragment"
+        android:label="MarketFragment" />
+    <fragment
+        android:id="@+id/messageFragment"
+        android:name="com.example.onlinepostoffice.message.MessageFragment"
+        android:label="message_fragment"
+        tools:layout="@layout/message_fragment" />
+    <fragment
+        android:id="@+id/shoppingTrolleyFragment"
+        android:name="com.example.onlinepostoffice.shoppingtrolley.ShoppingTrolleyFragment"
+        android:label="shopping_trolley_fragment"
+        tools:layout="@layout/shopping_trolley_fragment" />
+    <fragment
+        android:id="@+id/mineFragment"
+        android:name="com.example.onlinepostoffice.mine.MineFragment"
+        android:label="mine_fragment"
+        tools:layout="@layout/mine_fragment" />
+</navigation>

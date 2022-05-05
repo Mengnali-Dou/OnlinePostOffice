@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 商城页面，中间手动滑动菜单栏的样式 -->
+<resources>
+<!--  每个菜单整体的样式（图片+文字）  -->
+    <style name="market_menubar_img_and_txt">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+<!--  每个菜单图片样式  -->
+    <style name="market_menubar_img">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+<!--  每个菜单文字样式  -->
+    <style name="market_menubar_txt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>
