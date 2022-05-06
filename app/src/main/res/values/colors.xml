@@ -12,4 +12,6 @@
     <color name="red">#fc5043</color>
     <color name="ems_green">#11ae64</color>
     <color name="orange">#f9953e</color>
+    <color name="font_hint">#989898</color>
+    <color name="colorPrimary">#18ae67</color>
 </resources>
