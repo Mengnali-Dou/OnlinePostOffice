@@ -14,7 +14,7 @@
     <string name="zhong_you_bao_xian">中邮保险</string>
     <string name="zhong_you_zheng_quan">中邮证券</string>
     <string name="you_chu_yin_hang">邮储银行</string>
-    <string name="hong_lou_meng_feng_qin_zhe">读书日名著--《红楼梦》个性化邮票典藏系列风琴折</string>
+    <string name="hong_lou_meng_feng_qin_zhe">读书日名著—《红楼梦》个性化邮票典藏系列风琴折</string>
     <string name="nengmenggu_youzhe">内蒙古兴安盟 《全民阅读》邮折</string>
     <string name="yunnan_zhencangce">【云南】《全民阅读》邮票珍藏册</string>
     <string name="geyan_shangbanyue">格言（上半月）</string>
@@ -38,4 +38,32 @@
     <string name="rexiaoduwu">热销读物</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bianjiziliao">编辑资料</string>
+    <string name="wodedingdan">我的订单</string>
+    <string name="chakanquanbu">查看全部</string>
+    <string name="jiantou"><![CDATA[>]]></string>
+    <string name="daifukuan">待付款</string>
+    <string name="daifahuo">待发货</string>
+    <string name="daishouhuo">待收货</string>
+    <string name="pingjiazhongxin">评价中心</string>
+    <string name="tuikuan_shouhou">退款/售后</string>
+    <string name="wodefuwu">我的服务</string>
+    <string name="youpiaopaimai">邮票拍卖</string>
+    <string name="youpiaoyaohao">邮票摇号</string>
+    <string name="baokankaquan">报刊卡卷</string>
+    <string name="yudingzige">预定资格</string>
+    <string name="wodeyuding">我的预订</string>
+    <string name="wodejidi">我的寄递</string>
+    <string name="wodewenda">我的问答</string>
+    <string name="wodeshoucang">我的收藏</string>
+    <string name="xingqubiaoqian">兴趣标签</string>
+    <string name="baozhengjin">保证金</string>
+    <string name="nongpindingdan">农品订单</string>
+    <string name="zhutiyouju">主题邮局</string>
+    <string name="caogaoxiang">草稿箱</string>
+    <string name="yifabu">已发布</string>
+    <string name="wodeyinhangka">我的银行卡</string>
+    <string name="chakan_yinhangka_zhifubao">查看银行卡、支付宝</string>
+    <string name="shezhi">设置</string>
+    <string name="wodekehujingli">我的客户经理</string>
 </resources>
