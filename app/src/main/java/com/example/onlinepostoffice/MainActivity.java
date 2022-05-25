@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 R.id.homeFragment, R.id.marketFragment, R.id.messageFragment,
                 R.id.shoppingTrolleyFragment, R.id.mineFragment).build();
         NavController navController = Navigation.findNavController(this, R.id.fragmentContainerView);
-        NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+//        NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(bottomNavigationView, navController);
     }
 }
